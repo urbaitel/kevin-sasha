@@ -358,12 +358,19 @@ hr {
 }
 
 @media (max-width: 768px) {
+  .intro {
+    height: 400px;
+  }
+
   .intro .slogan h2 {
     font-size: 48px;
   }
 }
 
 @media (max-width: 600px) {
+  .intro {
+    height: 400px;
+  }
   .intro .slogan h2 {
     font-size: 36px;
   }
