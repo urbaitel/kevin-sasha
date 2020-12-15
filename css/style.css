@@ -370,6 +370,11 @@ hr {
   .intro .slogan h2 {
     font-size: 48px;
   }
+
+  .family {
+    width: 200px;
+    padding: 10px;
+  }
 }
 
 @media (max-width: 600px) {
@@ -378,6 +383,10 @@ hr {
   }
   .intro .slogan h2 {
     font-size: 36px;
+  }
+  .family {
+    width: 200px;
+    padding: 10px;
   }
 }
 
